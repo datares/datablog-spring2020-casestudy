@@ -1,5 +1,5 @@
 # Data Blog Spring 2021 Introduction to EDA: Case Study
-This repository is for a Data Blog Spring 2021 Workshop and is designed to give members an introduction to exploratory data analysis with Python.
+This repository is for a Data Blog Spring 2021 Workshop (April 13 2021) and is designed to give members an introduction to exploratory data analysis with Python.
 
 ## Instructions to Get Started
 1. Make sure you have jupyter notebook installed on your computer
